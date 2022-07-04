@@ -1,3 +1,55 @@
 body {
     margin: 0%;
 }
+h1{
+    font-size: 50px;
+}
+.flexible {
+    display: flex;
+    margin-bottom: 80px;
+    
+}
+.half-width {
+    width: 50%;
+    padding-left: 30px;
+}
+.half-width {
+    width: 100%;
+}
+.orange {
+    color: orange;
+}
+.button {
+    width: 40%;
+    padding: 10px 10px 10px;
+    border-radius: 20px;
+    background-image: linear-gradient(orange,red);
+    text-decoration: none;
+    font-weight: 700;
+}
+.background {
+    background-image: url(images/shapes/Frame\ 59.jpg);
+}
+.middle {
+    text-align: center;
+}
+.rece {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 50px;
+    box-shadow: 10px 10px 40px green;
+}
+.last {
+    display: flex;
+    margin-bottom: 80px;
+}
+.channel {
+    width: 300px;
+    height: 100px;
+    max-resolution: 5%;
+    padding: 10px;
+    background-color: rgb(247, 243, 242);
+    box-shadow: 10px 10px 40px rgb(222, 222, 226);
+    text-align: center;
+}
