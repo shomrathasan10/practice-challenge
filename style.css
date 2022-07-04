@@ -39,6 +39,11 @@ h1{
     margin-right: 5%;
     padding-left: 40px;
     box-shadow: 10px 10px 40px green;
+    border-radius: 5%;
+}
+.race img {
+    width: 100%;
+    border-radius: 5%;
 }
 .last {
     display: flex;
